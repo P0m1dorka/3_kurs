@@ -1,0 +1,7 @@
+# ninja log v6
+2	134	1732628507150109710	CMakeFiles/c__.dir/main.cpp.o.ddi	b22dfe4eba2a0b3a
+134	137	1732628507282109774	CMakeFiles/c__.dir/CXX.dd	4fa6f5c291d4513
+134	137	1732628507282109774	/home/nolik/myfiles/prog/c++/cmake-build-debug/CMakeFiles/c__.dir/CXXModules.json	4fa6f5c291d4513
+134	137	1732628507282109774	CMakeFiles/c__.dir/main.cpp.o.modmap	4fa6f5c291d4513
+137	714	1732628507285109776	CMakeFiles/c__.dir/main.cpp.o	49982b863ba6f374
+714	814	1732628507862110057	c__	d8a5dff7502f788d

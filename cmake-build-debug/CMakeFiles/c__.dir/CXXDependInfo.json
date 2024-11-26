@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/nolik/myfiles/prog/c++/cmake-build-debug",
+	"dir-cur-src" : "/home/nolik/myfiles/prog/c++",
+	"dir-top-bld" : "/home/nolik/myfiles/prog/c++/cmake-build-debug",
+	"dir-top-src" : "/home/nolik/myfiles/prog/c++",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/nolik/myfiles/prog/c++/cmake-build-debug/CMakeFiles/c__.dir"
+}
